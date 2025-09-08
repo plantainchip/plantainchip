@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 
 I'm a Computer Science student, almost at the finish line to get my degree 🌞
-Additionally, i'm an artist. I love making digital art, specifically pixel art, and watercolor paintings 🌝
-I have also picked up a new hobby: Game developement 🌟 
+I love making digital art, specifically pixel art, and watercolor paintings 🌝
+I'm also something of a game developer myself. After I get my degree, I want to build and publish my first real game.
+In the meantime, check out some of my smaller web games 
 
 📚 I’m currently learning ...
   * Javascript and KAPLAY
@@ -26,5 +27,3 @@ I have also picked up a new hobby: Game developement 🌟
   * B1tJam2 game jam entry called 'In the Calyx'
 
 💬 Ask me about my projects :)
-
-
