@@ -21,8 +21,10 @@ I have also picked up a new hobby: Game developement 🌟
 
 📚 I’m currently learning ...
   * Javascript and KAPLAY
+
 🔨 Recently worked on  ...
   * B1tJam2 game jam entry called 'In the Calyx'
+
 💬 Ask me about my projects :)
 
 
