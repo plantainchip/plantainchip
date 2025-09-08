@@ -15,11 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Computer Science student, almost at the finish line to get my degree.
-* 🌱 I’m currently learning ...
-  * Javascript
-* 🔭 Recently worked on  ...
+I'm a Computer Science student, almost at the finish line to get my degree 🌞
+Additionally, i'm an artist. I love making digital art, specifically pixel art, and watercolor paintings 🌝
+I have also picked up a new hobby: Game developement 🌟 
+
+📚 I’m currently learning ...
+  * Javascript and KAPLAY
+🔨 Recently worked on  ...
   * B1tJam2 game jam entry called 'In the Calyx'
-* 💬 Ask me about my projects
+💬 Ask me about my projects :)
 
 
