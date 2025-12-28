@@ -26,7 +26,7 @@ I’m currently learning: <br>
 Recently worked on: <br>
 ˙⋆✮ B1tJam2 game jam entry called 'In the Calyx'
 
-Ask me about my projects :) ✮⋆˙
+˙⋆✮ Ask me about my projects!
 
 
 ```
