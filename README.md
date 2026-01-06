@@ -21,9 +21,11 @@ In the meantime, check out some of my smaller web games ⋆.˚ ☾⭒.˚
 ────── ⋆⋅☆⋅⋆ ──────
 
 I’m currently learning: <br>
+˙⋆✮ Web development: 31 days of making tiny projects - Code Marathon
 ˙⋆✮ Javascript and KAPLAY 
 
 Recently worked on: <br>
+˙⋆✮ Check out what i've made so far for my Code Marathon
 ˙⋆✮ B1tJam2 game jam entry called 'In the Calyx'
 
 ˙⋆✮ Ask me about my projects!
