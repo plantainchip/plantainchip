@@ -20,9 +20,10 @@ In the meantime, check out some of my smaller web games ⋆.˚ ☾⭒.˚
 
 ────── ⋆⋅☆⋅⋆ ──────
 
-I’m currently learning: <br>
+I’m currently working on: <br>
+˙⋆✮ Bounty Hunter Hamster: a short web game about a hamster's adventures
 ˙⋆✮ Web development: 31 days of making tiny projects - Code Marathon <br>
-˙⋆✮ Javascript and KAPLAY 
+˙⋆✮ Learning JavaScript and KAPLAY 
 
 Recently worked on: <br>
 ˙⋆✮ Check out what i've made so far for my Code Marathon <br>
