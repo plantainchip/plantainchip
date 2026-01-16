@@ -21,7 +21,7 @@ In the meantime, check out some of my smaller web games ⋆.˚ ☾⭒.˚
 ────── ⋆⋅☆⋅⋆ ──────
 
 I’m currently working on: <br>
-˙⋆✮ Bounty Hunter Hamster: a short web game about a hamster's adventures
+˙⋆✮ Bounty Hunter Hamster: a short web game about a hamster's adventures <br>
 ˙⋆✮ Web development: 31 days of making tiny projects - Code Marathon <br>
 ˙⋆✮ Learning JavaScript and KAPLAY 
 
