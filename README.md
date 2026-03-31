@@ -21,9 +21,9 @@ In the meantime, check out some of my smaller web games ⋆.˚ ☾⭒.˚
 ────── ⋆⋅☆⋅⋆ ──────
 
 I’m currently working on: <br>
-˙⋆✮ Small web games
-˙⋆✮ Web development
-˙⋆✮ Learning JavaScript, Kaplay, Godot
+˙⋆✮ Small web games <br>
+˙⋆✮ Web development <br>
+˙⋆✮ Learning JavaScript, Kaplay, Godot <br>
 
 
 ˙⋆✮ Ask me about my projects and paintings!
