@@ -15,21 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Computer Science student, almost at the finish line to get my degree. I love making digital art, specifically pixel art, and watercolor paintings. I'm also something of a game developer myself. After I get my degree, I want to build and publish my first real game. <br>
+I'm a Computer Science student, almost at the finish line to get my degree. I love making digital art, specifically pixel art, and watercolor paintings. I'm also interested in game development. After I get my degree, I want to build and publish my first large game. <br>
 In the meantime, check out some of my smaller web games ⋆.˚ ☾⭒.˚
 
 ────── ⋆⋅☆⋅⋆ ──────
 
 I’m currently working on: <br>
-˙⋆✮ Bounty Hunter Hamster: a short web game about a hamster's adventures <br>
-˙⋆✮ Web development: 31 days of making tiny projects - Code Marathon <br>
-˙⋆✮ Learning JavaScript and KAPLAY 
+˙⋆✮ Small web games
+˙⋆✮ Web development
+˙⋆✮ Learning JavaScript, Kaplay, Godot
 
-Recently worked on: <br>
-˙⋆✮ Check out what i've made so far for my Code Marathon <br>
-˙⋆✮ B1tJam2 game jam entry called 'In the Calyx' 
 
-˙⋆✮ Ask me about my projects!
+˙⋆✮ Ask me about my projects and paintings!
 
 
 ```
