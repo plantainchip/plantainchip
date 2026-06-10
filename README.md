@@ -15,31 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Computer Science student, almost at the finish line to get my degree. I love making digital art, specifically pixel art, and watercolor paintings. I'm also interested in game development. After I get my degree, I want to build and publish my first steam game. <br>
-In the meantime, check out some of my smaller web games ⋆.˚ ☾⭒.˚
+Currently working on some web games  ⋆.˚ ☾⭒.˚
 
 ────── ⋆⋅☆⋅⋆ ──────
 
-I’m currently working on: <br>
-˙⋆✮ Small web games <br>
-˙⋆✮ Web development <br>
-˙⋆✮ Learning JavaScript, Kaplay, Godot <br>
-
-
 ˙⋆✮ Ask me about my projects and paintings!
 
-
-```
-        ~+
-
-                 *       +
-           '                  |
-       ()    .-.,="``"=.    - o -
-             '=/_       \     |
-          *   |  '=._    |
-               \     `=./`,        '
-            .   '=.__.=' `='      *
-   +                         +
-        O      *        '       .
-
-```
